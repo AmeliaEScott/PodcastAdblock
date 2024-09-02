@@ -1,0 +1,11 @@
+{
+    "if_directory_empty": "download_from_14_days",
+    "podcasts": [
+      {
+        "name": "My favorite podcase",
+        "rss_link": "https://www.example.com/podcast.rss",
+        "path": "./data/my_favorite_podcast",
+        "file_name_template": "%publish_date%_%title%.%file_extension%"
+      }
+    ]
+  }
