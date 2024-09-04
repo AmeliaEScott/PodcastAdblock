@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Test Podcast",
+        "path": "./data/test",
+        "ad_songs": [
+            "./data/my_favorite_podcast/ad_song.mp3"
+        ],
+        "ignore_first": "01:00",
+        "ignore_last": "05:00",
+        "minimum_ad_length": "00:30",
+        "maximum_ad_length": "05:00",
+        "ad_buffer": "00:02",
+        "number_of_ad_breaks": 3
+    }
+]
